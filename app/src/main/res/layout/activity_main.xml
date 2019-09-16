@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:gravity="top"
-    android:background="#6766"
+    android:background="#66701010"
     >
     <EditText
         android:id="@+id/edit_text_content"
